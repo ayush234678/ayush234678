@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Anand</h1>
-<h3 align="center">A passionate frontend developer and Python Developer from India</h3>
+<h3 align="center">A passionate Web developer and Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush234678&label=Profile%20views&color=0e75b6&style=flat" alt="ayush234678" /> </p>
 
-- 🔭 I’m currently working on **Desktop Assistant using ai**
+- 🔭 I’m currently working on **Medical Management Website **
 
 - 🌱 I’m currently learning **Data Science**
 
